@@ -33,7 +33,7 @@ namespace Animals
             {
                 animal.ShowSpeedMovement();
             }
-            Console.WriteLine();
+            Console.WriteLine("testing");
         }
     }
 }
